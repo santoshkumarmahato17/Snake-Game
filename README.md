@@ -13,6 +13,7 @@ Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "sui
  How to Play
  
  Controls
+ 
  Key           Action
  Up Arrow      MoveUp      
  Down Arrow    Move Down    
@@ -20,3 +21,12 @@ Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "sui
  Right Arrow   Move Right   
  C             Play Again (after Game Over)
  Q             Quit Game
+
+
+Rules:-
+
+Each piece of food increases your score by 1 and your length by 2 blocks.
+
+The game ends if you hit the boundary of the window.
+
+The game ends if the snake's head touches any part of its body.
