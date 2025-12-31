@@ -9,3 +9,14 @@ Collision Detection: Intelligent tracking for wall hits and self-collisions.
 Score System: Real-time score tracking that increases as you collect food.
 Game Over Menu: Options to instantly restart (C) or quit (Q) after a loss.
 Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "suicide" turns.
+
+ How to Play
+ 
+ Controls
+ Key           Action
+ Up Arrow      MoveUp      
+ Down Arrow    Move Down    
+ Left Arrow    Move Left    
+ Right Arrow   Move Right   
+ C             Play Again (after Game Over)
+ Q             Quit Game
