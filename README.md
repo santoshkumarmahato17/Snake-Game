@@ -2,6 +2,7 @@
  Snake Game (Pygame)
 </h1>
 <p1>A classic implementation of the Snake Game built using Python and the Pygame library. Navigate the snake to eat food, grow your length, and compete for a high score without hitting the walls or your own tail.
+ 
 </p1>
 <h2>Feature</h2>>
 <p2>Grid-Based Movement: Precise movement on a 20×20 pixel grid.
@@ -13,10 +14,10 @@ Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "sui
 
 
 
- How to Play
+ <h3>How to Play</h3>
  
- Controls
- 
+ **<b>Controls</b>**
+ **<b> 
  Key           Action
  Up Arrow      MoveUp      
  Down Arrow    Move Down    
@@ -24,7 +25,7 @@ Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "sui
  Right Arrow   Move Right   
  C             Play Again (after Game Over)
  Q             Quit Game
-
+</b>**
 
 Rules:-
 
