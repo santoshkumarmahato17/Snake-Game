@@ -1,6 +1,6 @@
 <h1>
  Snake Game (Pygame)
-</h1>h1>
+</h1>Features<h1>
 <p1>A classic implementation of the Snake Game built using Python and the Pygame library. Navigate the snake to eat food, grow your length, and compete for a high score without hitting the walls or your own tail.
 </p1>
 <h>Feature</h>>
