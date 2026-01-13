@@ -1,14 +1,17 @@
-Snake Game (Pygame)
-
-A classic implementation of the Snake Game built using Python and the Pygame library. Navigate the snake to eat food, grow your length, and compete for a high score without hitting the walls or your own tail.
-
-Features
-
-Grid-Based Movement: Precise movement on a 20×20 pixel grid.
+<h1>
+ Snake Game (Pygame)
+</h1>h1>
+<p1>A classic implementation of the Snake Game built using Python and the Pygame library. Navigate the snake to eat food, grow your length, and compete for a high score without hitting the walls or your own tail.
+</p1>
+<h>Feature</h>>
+<p2>Grid-Based Movement: Precise movement on a 20×20 pixel grid.
 Collision Detection: Intelligent tracking for wall hits and self-collisions.
 Score System: Real-time score tracking that increases as you collect food.
 Game Over Menu: Options to instantly restart (C) or quit (Q) after a loss.
-Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "suicide" turns.
+Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "suicide" turns.</p2>
+
+
+
 
  How to Play
  
