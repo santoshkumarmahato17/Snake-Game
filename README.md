@@ -28,8 +28,8 @@ Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "sui
 </b>**
 
 Rules:-
-
-Each piece of food increases your score by 1 and your length by 2 blocks.
+<br>
+Each piece of food increases your score by 1 and your length by 2 blocks.</br>
 
 The game ends if you hit the boundary of the window.
 
