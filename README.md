@@ -24,7 +24,7 @@ Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "sui
  Right Arrow   Move Right   
  C             Play Again (after Game Over)
  Q             Quit Game
-</br>**
+
 
 <h4>Rules:-</h4>
 <p1>Each piece of food increases your score by 1 and your length by 2 blocks.
