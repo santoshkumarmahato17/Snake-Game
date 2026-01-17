@@ -16,7 +16,7 @@ Smooth Controls: Responsive keyboard input with logic to prevent 180-degree "sui
 
  <h3>How to Play</h3>
  **<p3>Controls</p3>**
- **<br>
+ 
  Key           Action
  Up Arrow      MoveUp      
  Down Arrow    Move Down    
